@@ -7,3 +7,7 @@
       border-radius: 15px;
       margin-right:5px;
   }
+  html {
+    background: linear-gradient(315deg, #EA5753, #FFB88E) no-repeat;
+   
+}
